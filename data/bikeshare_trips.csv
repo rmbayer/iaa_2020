@@ -1,0 +1,501 @@
+trip_id,subscriber_type,bikeid,start_time,start_station_id,start_station_name,end_station_id,end_station_name,duration_minutes
+9900285908,Annual Membership (Austin B-cycle),400,10/26/2014 14:12:00,2823,Capital Metro HQ - East 5th at Broadway,2544,East 6th & Pedernales St.,10
+9900289692,Walk Up,248,10/2/2015 21:12:01,1006,Zilker Park West,1008,Nueces @ 3rd,39
+9900285987,24-Hour Kiosk (Austin B-cycle),446,10/26/2014 15:12:00,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,31
+9900285989,24-Hour Kiosk (Austin B-cycle),203,10/26/2014 15:12:00,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,31
+9900285991,24-Hour Kiosk (Austin B-cycle),101,10/26/2014 15:12:00,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,30
+9900286140,24-Hour Kiosk (Austin B-cycle),242,10/26/2014 18:12:00,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,19
+9900286143,24-Hour Kiosk (Austin B-cycle),924,10/26/2014 18:12:00,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,17
+9900286171,24-Hour Kiosk (Austin B-cycle),869,10/26/2014 18:12:00,2536,Waller & 6th St.,2536,Waller & 6th St.,6
+9900286214,Annual Membership (Austin B-cycle),24,10/26/2014 20:12:00,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900286540,24-Hour Kiosk (Austin B-cycle),117,10/27/2014 15:12:00,2536,Waller & 6th St.,2536,Waller & 6th St.,12
+13575843,Walk Up,302,1/29/2017 16:42:52,3464,Pease Park,3464,Pease Park,47
+9900287264,Annual Membership (Austin B-cycle),447,10/29/2014 8:12:00,2823,Capital Metro HQ - East 5th at Broadway,2544,East 6th & Pedernales St.,5
+9900287291,24-Hour Kiosk (Austin B-cycle),894,10/29/2014 10:12:00,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,0
+9900287293,24-Hour Kiosk (Austin B-cycle),996,10/29/2014 10:12:00,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,6
+9900287294,24-Hour Kiosk (Austin B-cycle),894,10/29/2014 10:12:00,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,0
+9900287378,Annual Membership (Austin B-cycle),827,10/29/2014 13:12:00,2823,Capital Metro HQ - East 5th at Broadway,2544,East 6th & Pedernales St.,4
+9900287414,Founding Member (Austin B-cycle),864,10/29/2014 15:12:00,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,3
+9900287606,Annual Membership (Austin B-cycle),513,10/29/2014 21:12:00,2536,Waller & 6th St.,2544,East 6th & Pedernales St.,10
+9900287861,24-Hour Kiosk (Austin B-cycle),965,10/30/2014 14:12:00,2536,Waller & 6th St.,2536,Waller & 6th St.,59
+9900287864,24-Hour Kiosk (Austin B-cycle),983,10/30/2014 14:12:00,2536,Waller & 6th St.,2536,Waller & 6th St.,58
+9900288008,24-Hour Kiosk (Austin B-cycle),969,10/30/2014 19:12:00,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,82
+9900288149,Founding Member (Austin B-cycle),429,10/31/2014 11:12:00,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,16
+9900288154,Annual Membership (Austin B-cycle),610,10/31/2014 12:12:00,2823,Capital Metro HQ - East 5th at Broadway,2544,East 6th & Pedernales St.,3
+9900290433,Local365,453,10/2/2015 21:12:42,1006,Zilker Park West,1008,Nueces @ 3rd,15
+9900288210,Annual Membership (Austin B-cycle),223,10/31/2014 13:12:00,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,23
+9900288274,24-Hour Kiosk (Austin B-cycle),198,10/31/2014 14:12:00,2536,Waller & 6th St.,2536,Waller & 6th St.,76
+9900288276,24-Hour Kiosk (Austin B-cycle),327,10/31/2014 14:12:00,2536,Waller & 6th St.,2536,Waller & 6th St.,75
+9900288278,24-Hour Kiosk (Austin B-cycle),41,10/31/2014 14:12:00,2536,Waller & 6th St.,2536,Waller & 6th St.,74
+9900288279,24-Hour Kiosk (Austin B-cycle),277,10/31/2014 14:12:00,2536,Waller & 6th St.,2536,Waller & 6th St.,73
+9900288288,Annual Membership (Austin B-cycle),197,10/31/2014 14:12:00,2823,Capital Metro HQ - East 5th at Broadway,2544,East 6th & Pedernales St.,4
+9900288333,Annual Membership (Austin B-cycle),158,10/31/2014 15:12:00,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,1
+9900288334,24-Hour Kiosk (Austin B-cycle),410,10/31/2014 15:12:00,2536,Waller & 6th St.,2544,East 6th & Pedernales St.,11
+9900288335,24-Hour Kiosk (Austin B-cycle),329,10/31/2014 15:12:00,2536,Waller & 6th St.,2544,East 6th & Pedernales St.,12
+9900288343,Annual Membership (Austin B-cycle),610,10/31/2014 15:12:00,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,4
+9900288379,Annual Membership (Austin B-cycle),223,10/31/2014 16:12:00,2823,Capital Metro HQ - East 5th at Broadway,2536,Waller & 6th St.,10
+9900288445,Annual Membership (Austin B-cycle),223,10/31/2014 17:12:00,2536,Waller & 6th St.,2536,Waller & 6th St.,1
+9900288446,Annual Membership (Austin B-cycle),544,10/31/2014 17:12:00,2541,State Capitol @ 14th & Colorado,2823,Capital Metro HQ - East 5th at Broadway,20
+9900288447,Annual Membership (Austin B-cycle),223,10/31/2014 17:12:00,2536,Waller & 6th St.,2536,Waller & 6th St.,14
+9900288594,Weekender,822,10/1/2015 19:12:12,2568,East 11th St. at Victory Grill,2536,Waller & 6th St.,3
+9900288695,Weekender,202,10/1/2015 8:12:20,2568,East 11th St. at Victory Grill,2536,Waller & 6th St.,11
+9900288777,Weekender,854,10/1/2015 16:12:17,3291,11th & San Jacinto,1008,Nueces @ 3rd,20
+9900288832,Weekender,202,10/1/2015 21:12:01,2536,Waller & 6th St.,2568,East 11th St. at Victory Grill,4
+9900288863,Walk Up,230,10/1/2015 18:12:08,3291,11th & San Jacinto,2561,State Capitol Visitors Garage @ San Jacinto & 12th,35
+9900288951,Local365,561,10/1/2015 23:12:03,3291,11th & San Jacinto,3291,11th & San Jacinto,19
+9900288985,Local30,224,10/1/2015 19:12:19,2568,East 11th St. at Victory Grill,2576,Rainey @ River St,27
+9900288998,Local365,140,10/1/2015 12:12:58,1008,Nueces @ 3rd,1008,Nueces @ 3rd,10
+9900289083,Local365,938,10/1/2015 18:12:16,1008,Nueces @ 3rd,2712,Toomey Rd @ South Lamar,5
+9900289091,Local30,221,10/1/2015 20:12:58,3291,11th & San Jacinto,2568,East 11th St. at Victory Grill,7
+9900289108,Local30,969,10/1/2015 13:12:09,1008,Nueces @ 3rd,1008,Nueces @ 3rd,16
+9900289112,Local30,969,10/1/2015 16:12:01,1008,Nueces @ 3rd,1008,Nueces @ 3rd,19
+9900289126,Local365,546,10/1/2015 20:12:17,1008,Nueces @ 3rd,1007,Lavaca & 6th,0
+9900289130,Local365,132,10/1/2015 8:12:57,2536,Waller & 6th St.,1007,Lavaca & 6th,0
+9900289157,Annual,800,10/1/2015 18:12:32,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,13
+9900289236,Weekender,200,10/2/2015 16:12:52,3293,East 2nd & Pedernales,3293,East 2nd & Pedernales,32
+9900289247,Walk Up,202,10/2/2015 12:12:30,2568,East 11th St. at Victory Grill,2568,East 11th St. at Victory Grill,0
+9900289262,Walk Up,966,10/2/2015 13:12:00,1008,Nueces @ 3rd,2712,Toomey Rd @ South Lamar,14
+9900289307,Walk Up,398,10/2/2015 15:12:31,2546,ACC - West & 12th Street,1006,Zilker Park West,19
+9900289320,Walk Up,140,10/2/2015 16:12:32,1008,Nueces @ 3rd,1008,Nueces @ 3rd,1
+9900289332,Walk Up,266,10/2/2015 21:12:57,1006,Zilker Park West,1006,Zilker Park West,1
+9900289349,Walk Up,236,10/2/2015 20:12:58,1006,Zilker Park West,2546,ACC - West & 12th Street,30
+9900289372,Walk Up,885,10/2/2015 21:12:16,1006,Zilker Park West,2536,Waller & 6th St.,44
+9900289380,Walk Up,829,10/2/2015 21:12:49,1006,Zilker Park West,1008,Nueces @ 3rd,23
+9900289457,Weekender,712,10/2/2015 16:12:07,3293,East 2nd & Pedernales,3293,East 2nd & Pedernales,31
+9900289493,Walk Up,407,10/2/2015 21:12:45,1006,Zilker Park West,2536,Waller & 6th St.,42
+9900289496,Walk Up,141,10/2/2015 21:12:02,1006,Zilker Park West,1008,Nueces @ 3rd,25
+9900289535,Walk Up,895,10/2/2015 10:12:18,1006,Zilker Park West,1006,Zilker Park West,1
+9900289572,Walk Up,362,10/2/2015 20:12:09,1006,Zilker Park West,2546,ACC - West & 12th Street,30
+9900289573,Walk Up,272,10/2/2015 20:12:52,1006,Zilker Park West,1006,Zilker Park West,1
+9900289581,Walk Up,712,10/2/2015 21:12:41,1006,Zilker Park West,1006,Zilker Park West,1
+9900289594,Walk Up,435,10/2/2015 21:12:04,1006,Zilker Park West,1006,Zilker Park West,1
+9900289684,Walk Up,435,10/2/2015 21:12:43,1006,Zilker Park West,1006,Zilker Park West,1
+9900289690,Walk Up,62,10/2/2015 21:12:31,1006,Zilker Park West,1008,Nueces @ 3rd,25
+9900289721,Weekender,902,10/2/2015 9:12:46,2712,Toomey Rd @ South Lamar,1006,Zilker Park West,6
+9900289734,Walk Up,202,10/2/2015 12:12:15,2568,East 11th St. at Victory Grill,2568,East 11th St. at Victory Grill,0
+9900289861,Walk Up,956,10/2/2015 21:12:29,1006,Zilker Park West,1008,Nueces @ 3rd,22
+9900289883,Walk Up,406,10/2/2015 23:12:34,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,13
+9900289965,Walk Up,774,10/2/2015 20:12:35,1006,Zilker Park West,1006,Zilker Park West,1
+9900289969,Walk Up,664,10/2/2015 20:12:36,1006,Zilker Park West,1006,Zilker Park West,1
+9900289972,Walk Up,961,10/2/2015 21:12:04,1006,Zilker Park West,1006,Zilker Park West,1
+9900289983,Walk Up,435,10/2/2015 21:12:22,1006,Zilker Park West,1006,Zilker Park West,1
+9900290012,Walk Up,555,10/2/2015 23:12:49,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,14
+9900290020,Walk Up,78,10/2/2015 16:12:42,1006,Zilker Park West,1006,Zilker Park West,56
+9900290115,Walk Up,15,10/2/2015 13:12:04,1008,Nueces @ 3rd,2712,Toomey Rd @ South Lamar,15
+9900290119,Walk Up,95,10/2/2015 14:12:07,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,453
+9900290124,Walk Up,327,10/2/2015 15:12:48,1006,Zilker Park West,1006,Zilker Park West,1
+9900290132,Local365,746,10/2/2015 21:12:08,1006,Zilker Park West,1008,Nueces @ 3rd,24
+9900290190,Local365,555,10/2/2015 22:12:14,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900290215,Local365,417,10/2/2015 12:12:10,1008,Nueces @ 3rd,1007,Lavaca & 6th,0
+9900290218,Local365,224,10/2/2015 9:12:18,2576,Rainey @ River St,2536,Waller & 6th St.,8
+9900290229,Local365,958,10/2/2015 11:12:21,2576,Rainey @ River St,1006,Zilker Park West,32
+9900290240,Local365,871,10/2/2015 11:12:50,2576,Rainey @ River St,1006,Zilker Park West,33
+9900290259,Local365,470,10/2/2015 17:12:40,1006,Zilker Park West,1008,Nueces @ 3rd,18
+9900290296,Local365,306,10/2/2015 17:12:50,1008,Nueces @ 3rd,1007,Lavaca & 6th,0
+9900290331,Local365,902,10/2/2015 10:12:19,1006,Zilker Park West,2576,Rainey @ River St,246
+9900290333,Local365,369,10/2/2015 11:12:25,2576,Rainey @ River St,1006,Zilker Park West,32
+9900290378,Local365,327,10/2/2015 14:12:30,1006,Zilker Park West,1006,Zilker Park West,1
+9900290386,Local365,593,10/2/2015 17:12:52,1006,Zilker Park West,1008,Nueces @ 3rd,18
+9900290396,Local365,22,10/2/2015 10:12:52,1008,Nueces @ 3rd,1008,Nueces @ 3rd,5
+9900290438,Local30,866,10/2/2015 22:12:05,2712,Toomey Rd @ South Lamar,2576,Rainey @ River St,23
+9900290485,Local365,72,10/2/2015 21:12:51,1006,Zilker Park West,1008,Nueces @ 3rd,25
+9900290496,Local365,3,10/2/2015 17:12:57,1006,Zilker Park West,2576,Rainey @ River St,24
+9900290499,Local365,100,10/2/2015 17:12:03,1008,Nueces @ 3rd,1006,Zilker Park West,11
+9900290570,Weekender,58,10/3/2015 13:12:11,2576,Rainey @ River St,1006,Zilker Park West,23
+9900290601,Walk Up,963,10/3/2015 21:12:51,1006,Zilker Park West,2546,ACC - West & 12th Street,18
+9900290615,Walk Up,509,10/3/2015 13:12:22,1007,Lavaca & 6th,3291,11th & San Jacinto,17
+9900290636,Walk Up,540,10/3/2015 12:12:14,1006,Zilker Park West,1008,Nueces @ 3rd,25
+9900290649,Walk Up,503,10/3/2015 12:12:18,2536,Waller & 6th St.,3293,East 2nd & Pedernales,12
+9900290651,Walk Up,385,10/3/2015 12:12:25,2536,Waller & 6th St.,3293,East 2nd & Pedernales,11
+9900290672,Walk Up,153,10/3/2015 12:12:34,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,40
+9900290692,Walk Up,344,10/3/2015 12:12:09,1008,Nueces @ 3rd,1006,Zilker Park West,18
+9900290725,Walk Up,561,10/3/2015 18:12:48,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,49
+9900290726,Walk Up,176,10/3/2015 18:12:05,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900290730,Walk Up,907,10/3/2015 13:12:53,2568,East 11th St. at Victory Grill,2568,East 11th St. at Victory Grill,3
+9900290744,Walk Up,621,10/3/2015 16:12:53,1006,Zilker Park West,1007,Lavaca & 6th,0
+9900290774,Walk Up,938,10/3/2015 23:12:47,2541,State Capitol @ 14th & Colorado,2576,Rainey @ River St,38
+9900290817,Explorer,938,10/3/2015 20:12:44,1006,Zilker Park West,2541,State Capitol @ 14th & Colorado,30
+9900290849,Walk Up,864,10/3/2015 22:12:53,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900290857,Walk Up,133,10/3/2015 18:12:07,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,25
+9900290861,Walk Up,80,10/3/2015 18:12:27,1006,Zilker Park West,1006,Zilker Park West,53
+9900290896,Walk Up,72,10/3/2015 21:12:26,1006,Zilker Park West,2568,East 11th St. at Victory Grill,14
+9900290901,Walk Up,414,10/3/2015 21:12:17,1006,Zilker Park West,1006,Zilker Park West,1
+9900290903,Walk Up,442,10/3/2015 21:12:40,2712,Toomey Rd @ South Lamar,1008,Nueces @ 3rd,8
+9900290904,Walk Up,696,10/3/2015 23:12:19,2576,Rainey @ River St,2536,Waller & 6th St.,42
+9900290905,Walk Up,882,10/3/2015 21:12:27,1006,Zilker Park West,2576,Rainey @ River St,30
+9900290968,Walk Up,133,10/3/2015 12:12:34,1006,Zilker Park West,1008,Nueces @ 3rd,24
+9900290972,Walk Up,287,10/3/2015 12:12:37,1008,Nueces @ 3rd,2712,Toomey Rd @ South Lamar,8
+9900291000,Walk Up,683,10/3/2015 13:12:52,1008,Nueces @ 3rd,1006,Zilker Park West,15
+9900291001,Walk Up,399,10/3/2015 13:12:10,1006,Zilker Park West,1006,Zilker Park West,26
+9900291016,Weekender,153,10/3/2015 14:12:41,2541,State Capitol @ 14th & Colorado,1006,Zilker Park West,22
+9900291033,Walk Up,391,10/3/2015 15:12:37,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,121
+9900291055,Walk Up,369,10/3/2015 17:12:36,1006,Zilker Park West,1006,Zilker Park West,35
+9900291091,Walk Up,563,10/3/2015 21:12:30,1006,Zilker Park West,1008,Nueces @ 3rd,26
+9900291092,Walk Up,320,10/3/2015 21:12:13,2712,Toomey Rd @ South Lamar,1008,Nueces @ 3rd,7
+9900291097,Walk Up,241,10/3/2015 21:12:32,1006,Zilker Park West,2576,Rainey @ River St,28
+9900291105,Walk Up,397,10/3/2015 21:12:04,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,29
+9900291129,Weekender,362,10/3/2015 10:12:16,2546,ACC - West & 12th Street,2536,Waller & 6th St.,11
+9900291214,Walk Up,160,10/3/2015 16:12:29,1006,Zilker Park West,1007,Lavaca & 6th,0
+9900291221,Explorer,95,10/3/2015 16:12:22,2541,State Capitol @ 14th & Colorado,1006,Zilker Park West,26
+9900291266,Explorer,301,10/3/2015 20:12:07,1006,Zilker Park West,2541,State Capitol @ 14th & Colorado,29
+9900291278,Walk Up,513,10/3/2015 21:12:14,1006,Zilker Park West,2546,ACC - West & 12th Street,18
+9900291324,Walk Up,801,10/3/2015 12:12:25,1007,Lavaca & 6th,1006,Zilker Park West,19
+9900291357,Walk Up,920,10/3/2015 13:12:49,2546,ACC - West & 12th Street,1006,Zilker Park West,38
+9900291362,Walk Up,559,10/3/2015 13:12:44,1006,Zilker Park West,1006,Zilker Park West,27
+9900291374,Weekender,236,10/3/2015 14:12:58,2546,ACC - West & 12th Street,1006,Zilker Park West,15
+9900291405,Walk Up,26,10/3/2015 16:12:51,1006,Zilker Park West,1007,Lavaca & 6th,0
+9900291436,Weekender,789,10/3/2015 19:12:09,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,15
+9900291473,Walk Up,1000,10/3/2015 21:12:03,1006,Zilker Park West,1007,Lavaca & 6th,0
+9900291483,Walk Up,301,10/3/2015 23:12:23,2541,State Capitol @ 14th & Colorado,2576,Rainey @ River St,38
+9900291511,Walk Up,965,10/3/2015 12:12:42,1008,Nueces @ 3rd,2712,Toomey Rd @ South Lamar,9
+9900291526,Walk Up,685,10/3/2015 12:12:00,2536,Waller & 6th St.,3293,East 2nd & Pedernales,10
+9900291551,Weekender,85,10/3/2015 13:12:24,2576,Rainey @ River St,1006,Zilker Park West,23
+9900291600,Walk Up,16,10/3/2015 16:12:04,2712,Toomey Rd @ South Lamar,1007,Lavaca & 6th,0
+9900291625,Walk Up,369,10/3/2015 18:12:55,1006,Zilker Park West,1006,Zilker Park West,4
+9900291628,Walk Up,2459,10/3/2015 19:12:16,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,22
+9900291630,Walk Up,58,10/3/2015 19:12:53,1007,Lavaca & 6th,1007,Lavaca & 6th,0
+9900291658,Walk Up,839,10/3/2015 21:12:04,1006,Zilker Park West,2576,Rainey @ River St,28
+9900291659,Walk Up,548,10/3/2015 21:12:47,1006,Zilker Park West,1007,Lavaca & 6th,0
+9900291686,Walk Up,272,10/3/2015 23:12:42,2576,Rainey @ River St,2536,Waller & 6th St.,43
+9900291767,Walk Up,578,10/3/2015 14:12:18,2541,State Capitol @ 14th & Colorado,1006,Zilker Park West,23
+9900291784,Walk Up,176,10/3/2015 15:12:48,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,122
+9900291792,Walk Up,177,10/3/2015 16:12:43,2712,Toomey Rd @ South Lamar,1007,Lavaca & 6th,0
+9900291831,Walk Up,16,10/3/2015 19:12:39,1007,Lavaca & 6th,1007,Lavaca & 6th,0
+9900291856,Walk Up,877,10/3/2015 21:12:43,1006,Zilker Park West,2576,Rainey @ River St,31
+9900291861,Walk Up,472,10/3/2015 21:12:45,1006,Zilker Park West,2546,ACC - West & 12th Street,155
+9900291867,Walk Up,683,10/3/2015 21:12:48,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,30
+9900291910,Walk Up,540,10/3/2015 11:12:02,1006,Zilker Park West,1006,Zilker Park West,1
+9900291912,Walk Up,49,10/3/2015 12:12:44,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,38
+9900291921,Walk Up,540,10/3/2015 12:12:16,1008,Nueces @ 3rd,1008,Nueces @ 3rd,0
+9900291934,Walk Up,445,10/3/2015 13:12:09,1007,Lavaca & 6th,3291,11th & San Jacinto,18
+9900291941,Walk Up,195,10/3/2015 13:12:38,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900292020,Walk Up,58,10/3/2015 18:12:59,1007,Lavaca & 6th,1007,Lavaca & 6th,0
+9900292021,Walk Up,16,10/3/2015 18:12:12,1007,Lavaca & 6th,1007,Lavaca & 6th,0
+9900292026,Weekender,80,10/3/2015 19:12:23,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,15
+9900292050,Walk Up,470,10/3/2015 21:12:34,1006,Zilker Park West,1008,Nueces @ 3rd,23
+9900292057,Walk Up,864,10/3/2015 21:12:26,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,8
+9900292059,Walk Up,696,10/3/2015 21:12:19,1006,Zilker Park West,2576,Rainey @ River St,31
+9900292064,Walk Up,882,10/3/2015 22:12:11,2576,Rainey @ River St,2568,East 11th St. at Victory Grill,14
+9900292065,Walk Up,877,10/3/2015 22:12:42,2576,Rainey @ River St,2568,East 11th St. at Victory Grill,14
+9900292075,Founding Member,236,10/3/2015 20:12:51,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,7
+9900292084,Local365,539,10/3/2015 12:12:23,2568,East 11th St. at Victory Grill,1006,Zilker Park West,24
+9900292102,Local365,176,10/3/2015 19:12:00,1006,Zilker Park West,1008,Nueces @ 3rd,14
+9900292115,Local365,735,10/3/2015 11:12:49,2712,Toomey Rd @ South Lamar,1008,Nueces @ 3rd,6
+9900292122,Local365,518,10/3/2015 14:12:39,1006,Zilker Park West,1006,Zilker Park West,1
+9900292139,Local365,514,10/3/2015 14:12:45,1007,Lavaca & 6th,1008,Nueces @ 3rd,3
+9900292152,Local365,898,10/3/2015 10:12:11,2576,Rainey @ River St,2536,Waller & 6th St.,8
+9900292155,Local365,993,10/3/2015 11:12:21,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900292174,Local365,181,10/3/2015 18:12:19,1008,Nueces @ 3rd,1008,Nueces @ 3rd,17
+9900292179,Local365,72,10/3/2015 20:12:37,1006,Zilker Park West,1006,Zilker Park West,1
+9900292193,Local365,862,10/3/2015 13:12:25,2576,Rainey @ River St,2576,Rainey @ River St,3
+9900292203,Local30,369,10/3/2015 17:12:20,2712,Toomey Rd @ South Lamar,1006,Zilker Park West,9
+9900292214,Local365,894,10/3/2015 21:12:04,1006,Zilker Park West,1008,Nueces @ 3rd,17
+9900292232,Local365,555,10/3/2015 11:12:10,2712,Toomey Rd @ South Lamar,1008,Nueces @ 3rd,6
+9900292235,Local365,183,10/3/2015 12:12:10,1008,Nueces @ 3rd,2712,Toomey Rd @ South Lamar,9
+9900292254,Local365,72,10/3/2015 20:12:18,1006,Zilker Park West,1006,Zilker Park West,1
+9900292255,Local365,306,10/3/2015 20:12:52,1006,Zilker Park West,1006,Zilker Park West,1
+9900292288,Local365,329,10/3/2015 18:12:50,2576,Rainey @ River St,1008,Nueces @ 3rd,18
+9900292302,Local365,183,10/3/2015 2:12:30,3291,11th & San Jacinto,1008,Nueces @ 3rd,8
+9900292303,Local30,54,10/3/2015 7:12:25,1008,Nueces @ 3rd,1006,Zilker Park West,26
+9900292307,Local30,285,10/3/2015 4:12:20,3291,11th & San Jacinto,2823,Capital Metro HQ - East 5th at Broadway,12
+9900292319,Local365,191,10/3/2015 12:12:37,2576,Rainey @ River St,1006,Zilker Park West,32
+9900292320,Local365,866,10/3/2015 12:12:44,2576,Rainey @ River St,2576,Rainey @ River St,1
+9900292347,Local365,306,10/3/2015 20:12:04,1006,Zilker Park West,1006,Zilker Park West,0
+9900292363,Local365,735,10/3/2015 12:12:00,1008,Nueces @ 3rd,2712,Toomey Rd @ South Lamar,8
+9900292365,Local365,409,10/3/2015 12:12:55,1008,Nueces @ 3rd,1007,Lavaca & 6th,0
+9900292373,Local365,400,10/3/2015 15:12:14,2712,Toomey Rd @ South Lamar,1006,Zilker Park West,7
+9900292375,Local365,58,10/3/2015 15:12:47,1008,Nueces @ 3rd,1007,Lavaca & 6th,0
+9900292386,Local365,549,10/3/2015 19:12:18,2712,Toomey Rd @ South Lamar,2568,East 11th St. at Victory Grill,37
+9900292388,Local365,320,10/3/2015 20:12:03,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,7
+9900292409,Walk Up,275,10/4/2015 12:12:36,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,36
+9900292410,Walk Up,275,10/4/2015 11:12:19,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,26
+9900292446,Walk Up,869,10/4/2015 14:12:14,2576,Rainey @ River St,1006,Zilker Park West,20
+9900292464,Walk Up,576,10/4/2015 0:12:39,1008,Nueces @ 3rd,2576,Rainey @ River St,13
+9900292500,Walk Up,578,10/4/2015 11:12:01,2536,Waller & 6th St.,2536,Waller & 6th St.,1
+9900292501,Walk Up,252,10/4/2015 12:12:34,1007,Lavaca & 6th,2536,Waller & 6th St.,48
+9900292503,Walk Up,164,10/4/2015 11:12:59,2536,Waller & 6th St.,2536,Waller & 6th St.,23
+9900292568,Walk Up,421,10/4/2015 13:12:29,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900292648,Walk Up,64,10/4/2015 16:12:04,1008,Nueces @ 3rd,1006,Zilker Park West,12
+9900292685,Walk Up,439,10/4/2015 16:12:18,2576,Rainey @ River St,2576,Rainey @ River St,88
+9900292708,Walk Up,153,10/4/2015 20:12:08,1006,Zilker Park West,2576,Rainey @ River St,18
+9900292714,Walk Up,572,10/4/2015 21:12:05,1006,Zilker Park West,1006,Zilker Park West,0
+9900292715,Walk Up,434,10/4/2015 21:12:00,1006,Zilker Park West,1006,Zilker Park West,0
+9900292723,Walk Up,362,10/4/2015 21:12:46,1006,Zilker Park West,1008,Nueces @ 3rd,25
+9900292725,Walk Up,164,10/4/2015 21:12:59,1006,Zilker Park West,1008,Nueces @ 3rd,21
+9900292743,Walk Up,589,10/4/2015 1:12:22,1006,Zilker Park West,1006,Zilker Park West,1
+9900292751,Walk Up,409,10/4/2015 9:12:46,1007,Lavaca & 6th,1007,Lavaca & 6th,0
+9900292781,Walk Up,544,10/4/2015 12:12:10,1007,Lavaca & 6th,2536,Waller & 6th St.,49
+9900292808,Explorer,439,10/4/2015 14:12:27,2536,Waller & 6th St.,1006,Zilker Park West,35
+9900292812,Explorer,29,10/4/2015 14:12:36,2576,Rainey @ River St,2712,Toomey Rd @ South Lamar,31
+9900292854,Walk Up,855,10/4/2015 18:12:28,1006,Zilker Park West,1006,Zilker Park West,11
+9900292856,Walk Up,416,10/4/2015 18:12:18,1008,Nueces @ 3rd,1006,Zilker Park West,15
+9900292857,Walk Up,919,10/4/2015 19:12:01,1006,Zilker Park West,1008,Nueces @ 3rd,11
+9900292884,Walk Up,200,10/4/2015 21:12:13,1006,Zilker Park West,1008,Nueces @ 3rd,21
+9900292909,Walk Up,882,10/4/2015 10:12:50,2568,East 11th St. at Victory Grill,2536,Waller & 6th St.,8
+9900292926,Walk Up,164,10/4/2015 12:12:21,2536,Waller & 6th St.,1007,Lavaca & 6th,0
+9900293010,Walk Up,152,10/4/2015 16:12:52,2576,Rainey @ River St,2576,Rainey @ River St,87
+9900293024,Walk Up,922,10/4/2015 18:12:16,1006,Zilker Park West,1006,Zilker Park West,11
+9900293040,Walk Up,58,10/4/2015 21:12:52,1006,Zilker Park West,1008,Nueces @ 3rd,19
+9900293149,Walk Up,371,10/4/2015 15:12:17,2546,ACC - West & 12th Street,2546,ACC - West & 12th Street,17
+9900293168,Walk Up,301,10/4/2015 16:12:05,2576,Rainey @ River St,2576,Rainey @ River St,87
+9900293171,Walk Up,281,10/4/2015 17:12:18,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900293198,Walk Up,983,10/4/2015 21:12:45,1006,Zilker Park West,2546,ACC - West & 12th Street,35
+9900293276,Walk Up,589,10/4/2015 13:12:34,1008,Nueces @ 3rd,1008,Nueces @ 3rd,73
+9900293279,Walk Up,212,10/4/2015 13:12:10,2546,ACC - West & 12th Street,1006,Zilker Park West,14
+9900293280,Explorer,540,10/4/2015 13:12:15,3291,11th & San Jacinto,2541,State Capitol @ 14th & Colorado,9
+9900293292,Walk Up,610,10/4/2015 14:12:02,1006,Zilker Park West,1006,Zilker Park West,0
+9900293302,Walk Up,546,10/4/2015 14:12:22,2712,Toomey Rd @ South Lamar,1006,Zilker Park West,7
+9900293320,Walk Up,352,10/4/2015 16:12:39,2576,Rainey @ River St,2576,Rainey @ River St,86
+9900293321,Walk Up,321,10/4/2015 16:12:24,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,13
+9900293330,Walk Up,22,10/4/2015 18:12:59,2712,Toomey Rd @ South Lamar,3291,11th & San Jacinto,20
+9900293345,Walk Up,221,10/4/2015 20:12:32,1006,Zilker Park West,2576,Rainey @ River St,19
+9900293353,Walk Up,153,10/4/2015 21:12:36,2576,Rainey @ River St,2568,East 11th St. at Victory Grill,11
+9900293384,Walk Up,442,10/4/2015 0:12:55,1008,Nueces @ 3rd,2576,Rainey @ River St,14
+9900293394,Walk Up,428,10/4/2015 10:12:31,2568,East 11th St. at Victory Grill,2536,Waller & 6th St.,8
+9900293408,Walk Up,578,10/4/2015 12:12:53,2536,Waller & 6th St.,1007,Lavaca & 6th,0
+9900293424,Walk Up,88,10/4/2015 13:12:36,1008,Nueces @ 3rd,1008,Nueces @ 3rd,71
+9900293449,Explorer,860,10/4/2015 14:12:01,2576,Rainey @ River St,2712,Toomey Rd @ South Lamar,30
+9900293456,Walk Up,680,10/4/2015 15:12:47,1006,Zilker Park West,1006,Zilker Park West,1
+9900293492,Walk Up,281,10/4/2015 18:12:44,2712,Toomey Rd @ South Lamar,3291,11th & San Jacinto,19
+9900293510,Walk Up,579,10/4/2015 21:12:22,1006,Zilker Park West,1008,Nueces @ 3rd,19
+9900293518,Walk Up,884,10/4/2015 21:12:20,1006,Zilker Park West,1006,Zilker Park West,1
+9900293523,Walk Up,575,10/4/2015 21:12:03,1006,Zilker Park West,1008,Nueces @ 3rd,24
+9900293564,Walk Up,578,10/4/2015 11:12:10,2536,Waller & 6th St.,2536,Waller & 6th St.,23
+9900293593,Weekender,920,10/4/2015 13:12:22,1008,Nueces @ 3rd,1006,Zilker Park West,27
+9900293616,Walk Up,420,10/4/2015 15:12:13,2541,State Capitol @ 14th & Colorado,1006,Zilker Park West,32
+9900293668,Walk Up,221,10/4/2015 21:12:51,2576,Rainey @ River St,2568,East 11th St. at Victory Grill,12
+9900293748,Local365,975,10/4/2015 22:12:37,2536,Waller & 6th St.,1008,Nueces @ 3rd,16
+9900293755,Local30,298,10/4/2015 12:12:51,2568,East 11th St. at Victory Grill,2568,East 11th St. at Victory Grill,0
+9900293758,Local365,829,10/4/2015 21:12:38,1006,Zilker Park West,1008,Nueces @ 3rd,24
+9900293768,Local30,970,10/4/2015 19:12:33,1006,Zilker Park West,1006,Zilker Park West,12
+9900293769,Local30,970,10/4/2015 19:12:08,1006,Zilker Park West,1006,Zilker Park West,12
+9900293799,Local365,409,10/4/2015 13:12:27,1007,Lavaca & 6th,2712,Toomey Rd @ South Lamar,8
+9900293807,Local365,589,10/4/2015 15:12:39,1008,Nueces @ 3rd,2712,Toomey Rd @ South Lamar,7
+9900293808,Local365,288,10/4/2015 16:12:45,1008,Nueces @ 3rd,1006,Zilker Park West,13
+9900293823,Local365,93,10/4/2015 20:12:55,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,6
+9900293840,Local365,421,10/4/2015 13:12:50,1007,Lavaca & 6th,2712,Toomey Rd @ South Lamar,8
+9900293848,Annual,660,10/4/2015 16:12:46,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,10
+9900293874,Local365,275,10/4/2015 13:12:28,2712,Toomey Rd @ South Lamar,1008,Nueces @ 3rd,10
+9900293884,Local30,460,10/4/2015 15:12:50,1008,Nueces @ 3rd,1006,Zilker Park West,13
+9900293909,Local365,78,10/4/2015 12:12:19,1008,Nueces @ 3rd,1006,Zilker Park West,14
+9900293910,Local365,472,10/4/2015 12:12:47,2546,ACC - West & 12th Street,2546,ACC - West & 12th Street,1
+9900293915,Local365,610,10/4/2015 12:12:44,2712,Toomey Rd @ South Lamar,1006,Zilker Park West,7
+9900293916,Local365,3,10/4/2015 13:12:15,1007,Lavaca & 6th,2712,Toomey Rd @ South Lamar,8
+9900293938,Local30,822,10/4/2015 21:12:33,1006,Zilker Park West,1006,Zilker Park West,1
+9900293941,Founding Member,421,10/4/2015 16:12:43,1008,Nueces @ 3rd,1008,Nueces @ 3rd,14
+9900293942,Local30,910,10/4/2015 9:12:15,1008,Nueces @ 3rd,1008,Nueces @ 3rd,13
+9900293945,Local365,563,10/4/2015 12:12:56,1008,Nueces @ 3rd,1007,Lavaca & 6th,0
+9900293981,Local365,884,10/4/2015 21:12:10,1006,Zilker Park West,2576,Rainey @ River St,31
+9900293982,Local365,864,10/4/2015 21:12:48,1006,Zilker Park West,2546,ACC - West & 12th Street,71
+9900293994,Local365,706,10/4/2015 12:12:26,1008,Nueces @ 3rd,1006,Zilker Park West,13
+9900294004,Local30,248,10/4/2015 15:12:57,1008,Nueces @ 3rd,1006,Zilker Park West,13
+9900294011,Annual,660,10/4/2015 16:12:10,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,0
+9900294023,Local365,528,10/4/2015 20:12:47,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,8
+9900294024,Local365,25,10/4/2015 20:12:25,1006,Zilker Park West,1006,Zilker Park West,2
+9900294103,Walk Up,867,10/5/2015 15:12:59,1006,Zilker Park West,1006,Zilker Park West,56
+9900294107,Walk Up,158,10/5/2015 17:12:55,3291,11th & San Jacinto,3291,11th & San Jacinto,148
+9900294112,Walk Up,150,10/5/2015 18:12:57,2546,ACC - West & 12th Street,2546,ACC - West & 12th Street,173
+9900294126,Walk Up,551,10/5/2015 12:12:54,2823,Capital Metro HQ - East 5th at Broadway,2544,East 6th & Pedernales St.,5
+9900294127,Walk Up,875,10/5/2015 12:12:17,2823,Capital Metro HQ - East 5th at Broadway,2544,East 6th & Pedernales St.,4
+9900294211,Walk Up,902,10/5/2015 12:12:32,3293,East 2nd & Pedernales,2576,Rainey @ River St,13
+9900294227,Walk Up,349,10/5/2015 15:12:38,1006,Zilker Park West,1006,Zilker Park West,54
+9900294228,Walk Up,560,10/5/2015 15:12:53,2576,Rainey @ River St,2576,Rainey @ River St,4
+9900294272,Weekender,440,10/5/2015 15:12:05,2576,Rainey @ River St,1006,Zilker Park West,33
+9900294274,Walk Up,668,10/5/2015 16:12:37,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,33
+9900294288,Walk Up,409,10/5/2015 10:12:04,2536,Waller & 6th St.,2536,Waller & 6th St.,3
+9900294297,Walk Up,560,10/5/2015 12:12:48,3293,East 2nd & Pedernales,2576,Rainey @ River St,14
+9900294318,Walk Up,347,10/5/2015 17:12:54,3291,11th & San Jacinto,3291,11th & San Jacinto,147
+9900294354,Walk Up,349,10/5/2015 16:12:12,1006,Zilker Park West,1006,Zilker Park West,0
+9900294385,Annual,321,10/5/2015 17:12:58,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,12
+9900294394,Local365,236,10/5/2015 13:12:34,1008,Nueces @ 3rd,1008,Nueces @ 3rd,4
+9900294441,Annual,551,10/5/2015 7:12:35,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,22
+9900294456,Local365,396,10/5/2015 12:12:28,1007,Lavaca & 6th,1008,Nueces @ 3rd,2
+9900294472,Local365,397,10/5/2015 19:12:41,2546,ACC - West & 12th Street,3291,11th & San Jacinto,7
+9900294483,Local365,881,10/5/2015 8:12:49,1008,Nueces @ 3rd,1008,Nueces @ 3rd,365
+9900294490,Local365,789,10/5/2015 9:12:46,2712,Toomey Rd @ South Lamar,1008,Nueces @ 3rd,7
+9900294497,Annual,321,10/5/2015 12:12:57,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,16
+9900294535,Local365,202,10/5/2015 15:12:48,1008,Nueces @ 3rd,3291,11th & San Jacinto,17
+9900294547,Local365,311,10/5/2015 20:12:33,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900294548,Local365,311,10/5/2015 20:12:49,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900294598,Local365,226,10/5/2015 8:12:41,3291,11th & San Jacinto,1008,Nueces @ 3rd,7
+9900294618,Local365,460,10/5/2015 17:12:05,2546,ACC - West & 12th Street,2712,Toomey Rd @ South Lamar,9
+9900294644,Local365,236,10/5/2015 10:12:59,2712,Toomey Rd @ South Lamar,1008,Nueces @ 3rd,5
+9900294650,Local365,370,10/5/2015 12:12:14,3291,11th & San Jacinto,2568,East 11th St. at Victory Grill,5
+9900294656,Local365,370,10/5/2015 14:12:40,2568,East 11th St. at Victory Grill,3291,11th & San Jacinto,7
+9900294674,Local365,553,10/5/2015 20:12:32,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,25
+9900294818,Walk Up,326,10/6/2015 16:12:58,2546,ACC - West & 12th Street,1008,Nueces @ 3rd,24
+9900294820,Walk Up,206,10/6/2015 16:12:11,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,63
+9900294855,Walk Up,160,10/6/2015 17:12:45,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,24
+9900294861,Walk Up,593,10/6/2015 22:12:34,2546,ACC - West & 12th Street,2546,ACC - West & 12th Street,95
+9900294945,Local365,805,10/6/2015 9:12:57,2536,Waller & 6th St.,2576,Rainey @ River St,7
+9900294975,Local365,874,10/6/2015 8:12:49,2536,Waller & 6th St.,1007,Lavaca & 6th,0
+9900294981,Local365,1000,10/6/2015 11:12:52,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,7
+9900294986,Local30,874,10/6/2015 13:12:12,2568,East 11th St. at Victory Grill,2536,Waller & 6th St.,6
+9900295008,Local365,553,10/6/2015 7:12:06,2712,Toomey Rd @ South Lamar,1008,Nueces @ 3rd,7
+9900295061,Local365,347,10/6/2015 13:12:16,3291,11th & San Jacinto,1008,Nueces @ 3rd,6
+9900295124,Local365,344,10/6/2015 10:12:08,1008,Nueces @ 3rd,1007,Lavaca & 6th,0
+9900295151,Local365,344,10/6/2015 9:12:52,1008,Nueces @ 3rd,1008,Nueces @ 3rd,9
+9900295157,Local365,321,10/6/2015 11:12:19,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,59
+9900295174,Annual,539,10/6/2015 18:12:26,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,9
+9900295201,Local365,749,10/6/2015 8:12:22,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900295240,Local365,843,10/6/2015 21:12:03,1008,Nueces @ 3rd,3291,11th & San Jacinto,9
+9900295332,Walk Up,593,10/7/2015 17:12:16,2546,ACC - West & 12th Street,2546,ACC - West & 12th Street,0
+9900295368,Walk Up,572,10/7/2015 15:12:37,2541,State Capitol @ 14th & Colorado,1007,Lavaca & 6th,0
+9900295371,Walk Up,843,10/7/2015 17:12:27,3291,11th & San Jacinto,3291,11th & San Jacinto,261
+9900295396,Walk Up,572,10/7/2015 18:12:24,1007,Lavaca & 6th,2546,ACC - West & 12th Street,6
+9900295418,Walk Up,425,10/7/2015 15:12:20,2541,State Capitol @ 14th & Colorado,1007,Lavaca & 6th,0
+9900295472,Local365,572,10/7/2015 19:12:14,2546,ACC - West & 12th Street,2568,East 11th St. at Victory Grill,13
+9900295499,Local365,321,10/7/2015 11:12:32,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,13
+9900295520,Annual,385,10/7/2015 9:12:16,2712,Toomey Rd @ South Lamar,1008,Nueces @ 3rd,6
+9900295617,Local365,468,10/7/2015 11:12:02,3291,11th & San Jacinto,1008,Nueces @ 3rd,9
+9900295631,Local365,370,10/7/2015 18:12:27,1008,Nueces @ 3rd,2712,Toomey Rd @ South Lamar,4
+9900295636,Local365,544,10/7/2015 20:12:53,1008,Nueces @ 3rd,1007,Lavaca & 6th,0
+9900295641,Local365,898,10/7/2015 8:12:49,2536,Waller & 6th St.,1007,Lavaca & 6th,0
+9900295655,Local365,116,10/7/2015 15:12:52,1007,Lavaca & 6th,1007,Lavaca & 6th,174
+9900295668,Annual,571,10/7/2015 16:12:22,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900295681,Local365,470,10/7/2015 22:12:43,2576,Rainey @ River St,2568,East 11th St. at Victory Grill,11
+9900295739,Local30,1000,10/7/2015 17:12:22,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,0
+9900295763,Walk Up,127,10/8/2015 15:12:38,3293,East 2nd & Pedernales,2536,Waller & 6th St.,14
+9900295766,Walk Up,188,10/8/2015 16:12:58,1006,Zilker Park West,2541,State Capitol @ 14th & Colorado,30
+9900295849,Walk Up,29,10/8/2015 15:12:53,3293,East 2nd & Pedernales,2536,Waller & 6th St.,14
+9900295856,Walk Up,393,10/8/2015 16:12:29,1006,Zilker Park West,2541,State Capitol @ 14th & Colorado,54
+9900295942,Weekender,382,10/8/2015 17:12:41,1008,Nueces @ 3rd,2546,ACC - West & 12th Street,7
+9900296045,Walk Up,789,10/8/2015 16:12:27,1006,Zilker Park West,1008,Nueces @ 3rd,42
+9900296046,Walk Up,177,10/8/2015 16:12:50,1006,Zilker Park West,1008,Nueces @ 3rd,42
+9900296057,Walk Up,329,10/8/2015 2:12:46,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,16
+9900296086,Explorer,37,10/8/2015 15:12:42,3291,11th & San Jacinto,3291,11th & San Jacinto,68
+9900296125,Annual,664,10/8/2015 6:12:42,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,21
+9900296226,Local365,190,10/8/2015 8:12:25,2536,Waller & 6th St.,1007,Lavaca & 6th,0
+9900296295,Local365,181,10/8/2015 17:12:02,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,0
+9900296410,Weekender,902,10/9/2015 10:12:25,2546,ACC - West & 12th Street,2546,ACC - West & 12th Street,39
+9900296469,Walk Up,64,10/9/2015 12:12:09,2576,Rainey @ River St,2541,State Capitol @ 14th & Colorado,24
+9900296470,Walk Up,354,10/9/2015 12:12:53,2541,State Capitol @ 14th & Colorado,2561,State Capitol Visitors Garage @ San Jacinto & 12th,21
+9900296492,Walk Up,29,10/9/2015 13:12:02,2536,Waller & 6th St.,2536,Waller & 6th St.,60
+9900296528,Walk Up,75,10/9/2015 19:12:25,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900296538,Walk Up,957,10/9/2015 16:12:58,2576,Rainey @ River St,1006,Zilker Park West,26
+9900296575,Walk Up,468,10/9/2015 17:12:10,1006,Zilker Park West,1006,Zilker Park West,104
+9900296576,Walk Up,545,10/9/2015 18:12:03,1006,Zilker Park West,1006,Zilker Park West,102
+9900296577,Walk Up,273,10/9/2015 18:12:48,1006,Zilker Park West,1006,Zilker Park West,102
+9900296595,Walk Up,751,10/9/2015 20:12:38,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,7
+9900296605,Walk Up,79,10/9/2015 20:12:11,1006,Zilker Park West,1007,Lavaca & 6th,0
+9900296621,Walk Up,283,10/9/2015 21:12:41,1006,Zilker Park West,1007,Lavaca & 6th,0
+9900296639,Walk Up,281,10/9/2015 22:12:41,1008,Nueces @ 3rd,2536,Waller & 6th St.,17
+9900296643,Walk Up,397,10/9/2015 22:12:15,1008,Nueces @ 3rd,2536,Waller & 6th St.,17
+9900296676,Walk Up,745,10/9/2015 12:12:32,2576,Rainey @ River St,2541,State Capitol @ 14th & Colorado,23
+9900296683,Walk Up,563,10/9/2015 13:12:54,1006,Zilker Park West,1006,Zilker Park West,17
+9900296687,Weekender,919,10/9/2015 13:12:05,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900296733,Walk Up,884,10/9/2015 19:12:10,2712,Toomey Rd @ South Lamar,2536,Waller & 6th St.,29
+9900296755,Walk Up,922,10/9/2015 21:12:45,1006,Zilker Park West,1006,Zilker Park West,1
+9900296765,Walk Up,513,10/9/2015 22:12:29,1008,Nueces @ 3rd,2536,Waller & 6th St.,18
+9900296815,Walk Up,878,10/9/2015 10:12:28,3291,11th & San Jacinto,2546,ACC - West & 12th Street,30
+9900296830,Walk Up,680,10/9/2015 11:12:18,2541,State Capitol @ 14th & Colorado,1006,Zilker Park West,80
+9900296835,Walk Up,281,10/9/2015 12:12:19,3291,11th & San Jacinto,3291,11th & San Jacinto,106
+9900296850,Walk Up,64,10/9/2015 14:12:51,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,35
+9900296873,Weekender,110,10/9/2015 16:12:49,2576,Rainey @ River St,1006,Zilker Park West,27
+9900296911,Weekender,326,10/9/2015 10:12:02,2576,Rainey @ River St,1006,Zilker Park West,38
+9900296923,Walk Up,560,10/9/2015 12:12:23,2568,East 11th St. at Victory Grill,2568,East 11th St. at Victory Grill,0
+9900296925,Walk Up,856,10/9/2015 12:12:47,2576,Rainey @ River St,2541,State Capitol @ 14th & Colorado,24
+9900296964,Walk Up,116,10/9/2015 16:12:00,1007,Lavaca & 6th,1006,Zilker Park West,18
+9900296969,Walk Up,933,10/9/2015 16:12:48,2576,Rainey @ River St,2576,Rainey @ River St,12
+9900296970,Weekender,447,10/9/2015 17:12:00,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,0
+9900296983,Walk Up,894,10/9/2015 19:12:05,2712,Toomey Rd @ South Lamar,2536,Waller & 6th St.,30
+9900297032,Weekender,97,10/9/2015 22:12:25,1007,Lavaca & 6th,2568,East 11th St. at Victory Grill,14
+9900297067,Walk Up,188,10/9/2015 14:12:54,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,40
+9900297070,Walk Up,925,10/9/2015 14:12:01,2541,State Capitol @ 14th & Colorado,1006,Zilker Park West,19
+9900297089,Weekender,647,10/9/2015 17:12:13,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,285
+9900297129,Walk Up,919,10/9/2015 21:12:01,1006,Zilker Park West,2544,East 6th & Pedernales St.,39
+9900297177,Walk Up,878,10/9/2015 12:12:32,1006,Zilker Park West,1006,Zilker Park West,37
+9900297180,Walk Up,593,10/9/2015 12:12:43,2541,State Capitol @ 14th & Colorado,1006,Zilker Park West,27
+9900297187,Walk Up,745,10/9/2015 12:12:35,2541,State Capitol @ 14th & Colorado,2561,State Capitol Visitors Garage @ San Jacinto & 12th,21
+9900297194,Walk Up,219,10/9/2015 13:12:11,2546,ACC - West & 12th Street,2541,State Capitol @ 14th & Colorado,14
+9900297219,Weekender,406,10/9/2015 16:12:35,2576,Rainey @ River St,1006,Zilker Park West,28
+9900297238,Walk Up,969,10/9/2015 19:12:14,2712,Toomey Rd @ South Lamar,2536,Waller & 6th St.,20
+9900297249,Walk Up,114,10/9/2015 20:12:54,1006,Zilker Park West,1007,Lavaca & 6th,0
+9900297261,Walk Up,539,10/9/2015 21:12:17,1006,Zilker Park West,1007,Lavaca & 6th,0
+9900297262,Walk Up,235,10/9/2015 21:12:59,1006,Zilker Park West,2546,ACC - West & 12th Street,144
+9900297288,Walk Up,169,10/9/2015 10:12:18,3291,11th & San Jacinto,2546,ACC - West & 12th Street,29
+9900297302,Walk Up,898,10/9/2015 12:12:40,1006,Zilker Park West,1006,Zilker Park West,26
+9900297303,Walk Up,102,10/9/2015 12:12:29,2576,Rainey @ River St,2541,State Capitol @ 14th & Colorado,25
+9900297307,Walk Up,160,10/9/2015 12:12:51,3291,11th & San Jacinto,3291,11th & San Jacinto,105
+9900297308,Walk Up,102,10/9/2015 12:12:03,2541,State Capitol @ 14th & Colorado,2561,State Capitol Visitors Garage @ San Jacinto & 12th,21
+9900297309,Walk Up,856,10/9/2015 12:12:16,2541,State Capitol @ 14th & Colorado,2561,State Capitol Visitors Garage @ San Jacinto & 12th,20
+9900297316,Walk Up,28,10/9/2015 13:12:46,2546,ACC - West & 12th Street,2541,State Capitol @ 14th & Colorado,16
+9900297333,Weekender,221,10/9/2015 15:12:48,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,367
+9900297359,Walk Up,285,10/9/2015 20:12:39,1006,Zilker Park West,1007,Lavaca & 6th,0
+9900297368,Walk Up,190,10/9/2015 20:12:16,1006,Zilker Park West,1007,Lavaca & 6th,0
+9900297369,Walk Up,197,10/9/2015 20:12:39,1006,Zilker Park West,1007,Lavaca & 6th,0
+9900297381,Walk Up,266,10/9/2015 21:12:02,1006,Zilker Park West,2546,ACC - West & 12th Street,144
+9900297388,Weekender,751,10/9/2015 21:12:59,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900297399,Walk Up,299,10/9/2015 22:12:10,1008,Nueces @ 3rd,2536,Waller & 6th St.,18
+9900297401,Weekender,878,10/9/2015 22:12:08,1007,Lavaca & 6th,2568,East 11th St. at Victory Grill,14
+9900297421,Local365,955,10/9/2015 13:12:26,1007,Lavaca & 6th,2541,State Capitol @ 14th & Colorado,5
+9900297456,Local365,203,10/9/2015 12:12:01,1007,Lavaca & 6th,1008,Nueces @ 3rd,2
+9900297504,Local30,503,10/9/2015 10:12:53,1006,Zilker Park West,1006,Zilker Park West,25
+9900297532,Annual,1000,10/9/2015 12:12:57,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,9
+9900297571,Local365,370,10/9/2015 8:12:19,2712,Toomey Rd @ South Lamar,1008,Nueces @ 3rd,12
+9900297561,Local365,80,10/9/2015 21:12:19,1006,Zilker Park West,2544,East 6th & Pedernales St.,41
+9900297578,Local365,683,10/9/2015 10:12:49,2712,Toomey Rd @ South Lamar,1006,Zilker Park West,8
+9900297597,Local365,425,10/9/2015 16:12:27,1007,Lavaca & 6th,2712,Toomey Rd @ South Lamar,8
+9900297599,Local365,58,10/9/2015 16:12:54,2576,Rainey @ River St,1006,Zilker Park West,34
+9900297609,Local365,1000,10/9/2015 7:12:10,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,7
+9900297620,Local365,1000,10/9/2015 11:12:41,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,14
+9900297622,Local365,664,10/9/2015 11:12:16,2823,Capital Metro HQ - East 5th at Broadway,2823,Capital Metro HQ - East 5th at Broadway,41
+9900297658,Local365,884,10/9/2015 16:12:54,1007,Lavaca & 6th,2712,Toomey Rd @ South Lamar,9
+9900297690,Local365,275,10/9/2015 14:12:53,1007,Lavaca & 6th,2576,Rainey @ River St,14
+9900297730,Local365,974,10/9/2015 12:12:06,2541,State Capitol @ 14th & Colorado,1007,Lavaca & 6th,0
+9900297740,Local365,386,10/9/2015 16:12:54,1006,Zilker Park West,1006,Zilker Park West,2
+9900297744,Local365,890,10/9/2015 18:12:49,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,7
+9900297817,Walk Up,391,10/10/2015 17:12:26,1006,Zilker Park West,1006,Zilker Park West,34
+9900297838,Walk Up,765,10/10/2015 19:12:35,1006,Zilker Park West,1006,Zilker Park West,32
+9900297881,Explorer,774,10/10/2015 10:12:07,2576,Rainey @ River St,2576,Rainey @ River St,56
+9900297889,Walk Up,235,10/10/2015 13:12:14,2546,ACC - West & 12th Street,2546,ACC - West & 12th Street,2
+9900297900,Walk Up,362,10/10/2015 12:12:36,2712,Toomey Rd @ South Lamar,1006,Zilker Park West,15
+9900297919,Walk Up,411,10/10/2015 11:12:16,1006,Zilker Park West,1006,Zilker Park West,1
+9900297994,Walk Up,509,10/10/2015 13:12:02,2712,Toomey Rd @ South Lamar,1006,Zilker Park West,10
+9900298001,Walk Up,105,10/10/2015 13:12:51,2576,Rainey @ River St,1006,Zilker Park West,34
+9900298114,Walk Up,229,10/10/2015 17:12:07,2546,ACC - West & 12th Street,2541,State Capitol @ 14th & Colorado,4
+9900298125,Walk Up,432,10/10/2015 16:12:16,1006,Zilker Park West,1006,Zilker Park West,1
+9900298129,Walk Up,479,10/10/2015 16:12:41,2536,Waller & 6th St.,1006,Zilker Park West,28
+9900298221,Weekender,969,10/10/2015 3:12:27,2536,Waller & 6th St.,3293,East 2nd & Pedernales,8
+9900298320,Weekender,221,10/10/2015 15:12:49,2823,Capital Metro HQ - East 5th at Broadway,2536,Waller & 6th St.,13
+9900298323,Walk Up,670,10/10/2015 15:12:17,2712,Toomey Rd @ South Lamar,1008,Nueces @ 3rd,129
+9900298324,Walk Up,104,10/10/2015 15:12:48,2712,Toomey Rd @ South Lamar,1008,Nueces @ 3rd,8
+9900298331,Walk Up,283,10/10/2015 15:12:10,2541,State Capitol @ 14th & Colorado,2541,State Capitol @ 14th & Colorado,16
+9900298333,Walk Up,747,10/10/2015 15:12:58,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,78
+9900298414,Weekender,97,10/10/2015 20:12:03,1006,Zilker Park West,1006,Zilker Park West,2
+9900298436,Walk Up,663,10/10/2015 21:12:19,2712,Toomey Rd @ South Lamar,2536,Waller & 6th St.,21
+9900298437,Walk Up,735,10/10/2015 21:12:40,2712,Toomey Rd @ South Lamar,2576,Rainey @ River St,20
+9900298526,Walk Up,190,10/10/2015 13:12:25,1008,Nueces @ 3rd,1008,Nueces @ 3rd,141
+9900298527,Walk Up,79,10/10/2015 13:12:06,1007,Lavaca & 6th,3293,East 2nd & Pedernales,78
+9900298552,Weekender,958,10/10/2015 15:12:18,2823,Capital Metro HQ - East 5th at Broadway,2536,Waller & 6th St.,12
+9900298598,Walk Up,936,10/10/2015 17:12:08,1008,Nueces @ 3rd,1008,Nueces @ 3rd,0
+9900298600,Walk Up,922,10/10/2015 17:12:40,1006,Zilker Park West,1006,Zilker Park West,34
+9900298601,Walk Up,563,10/10/2015 17:12:20,2712,Toomey Rd @ South Lamar,1006,Zilker Park West,12
+9900298620,Weekender,546,10/10/2015 19:12:19,1006,Zilker Park West,1006,Zilker Park West,2
+9900298624,Walk Up,663,10/10/2015 19:12:22,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,8
+9900298659,Walk Up,547,10/10/2015 21:12:41,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
+9900298699,Weekender,26,10/10/2015 9:12:39,2568,East 11th St. at Victory Grill,2561,State Capitol Visitors Garage @ San Jacinto & 12th,9
+9900298712,Walk Up,712,10/10/2015 10:12:13,2541,State Capitol @ 14th & Colorado,1006,Zilker Park West,28
+9900298750,Walk Up,970,10/10/2015 13:12:02,1007,Lavaca & 6th,3293,East 2nd & Pedernales,79
+9900298790,Walk Up,920,10/10/2015 15:12:57,1007,Lavaca & 6th,2541,State Capitol @ 14th & Colorado,26
+9900298791,Walk Up,283,10/10/2015 15:12:11,1007,Lavaca & 6th,2541,State Capitol @ 14th & Colorado,25
+9900298810,Walk Up,,10/10/2015 15:12:27,3293,East 2nd & Pedernales,2576,Rainey @ River St,12
+9900298843,Walk Up,877,10/10/2015 17:12:54,2712,Toomey Rd @ South Lamar,1006,Zilker Park West,10
+9900298866,Walk Up,191,10/10/2015 19:12:44,1006,Zilker Park West,2712,Toomey Rd @ South Lamar,8
+9900298885,Walk Up,668,10/10/2015 21:12:27,1006,Zilker Park West,2576,Rainey @ River St,27
+9900298926,Walk Up,263,10/10/2015 15:12:54,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,82
+9900298956,Explorer,998,10/10/2015 17:12:43,2546,ACC - West & 12th Street,2541,State Capitol @ 14th & Colorado,5
+9900298958,Walk Up,513,10/10/2015 17:12:06,1007,Lavaca & 6th,1006,Zilker Park West,18
+9900299043,Walk Up,27,10/10/2015 10:12:53,2576,Rainey @ River St,2576,Rainey @ River St,1
+9900299082,Walk Up,397,10/10/2015 12:12:37,2536,Waller & 6th St.,1006,Zilker Park West,34
+9900299097,Walk Up,176,10/10/2015 13:12:31,1008,Nueces @ 3rd,1008,Nueces @ 3rd,142
+9900299138,Walk Up,93,10/10/2015 10:12:26,2541,State Capitol @ 14th & Colorado,1006,Zilker Park West,30
+9900299141,Walk Up,514,10/10/2015 11:12:48,1008,Nueces @ 3rd,1008,Nueces @ 3rd,1
+9900299178,Walk Up,409,10/10/2015 12:12:36,2712,Toomey Rd @ South Lamar,1006,Zilker Park West,12
+9900299179,Walk Up,201,10/10/2015 12:12:11,2536,Waller & 6th St.,1006,Zilker Park West,33
+9900299209,Walk Up,957,10/10/2015 14:12:52,1008,Nueces @ 3rd,1008,Nueces @ 3rd,36
+9900299233,Walk Up,999,10/10/2015 15:12:33,2712,Toomey Rd @ South Lamar,1008,Nueces @ 3rd,8
+9900299244,Walk Up,517,10/10/2015 15:12:37,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,81
+9900299247,Walk Up,765,10/10/2015 15:12:36,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,77
+9900299268,Walk Up,157,10/10/2015 17:12:42,1008,Nueces @ 3rd,1008,Nueces @ 3rd,1
+9900299274,Walk Up,877,10/10/2015 17:12:22,2712,Toomey Rd @ South Lamar,2712,Toomey Rd @ South Lamar,0
