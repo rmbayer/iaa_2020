@@ -11,7 +11,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Distributed Architectures and Use Cases
 
 ## IAA Module - Session 2 - SQL and NoSQL Services
-[**Slides**]()
+**Slides**
 * Apache Hadoop 101
 * Intro to Apache Hive
 * Apache Hive Syntax and Schema Design
@@ -22,26 +22,29 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Apache SparkSQL Syntax and Best Practices
 * Google Cloud BigQuery (Managed SQL)
 * Google Cloud Firestore (Managed NoSQL)
-[**Assignment**]()
+
+**Assignment (Coming)**
 
 ## IAA Module - Session 3 - Realtime, Streaming Systems
-[**Slides**]()
+**Slides**
 * Apache Kafka
 * Google PubSub
 * Spark Streaming
 * Apache Beam (Google Dataflow)
-[**Assignment**]()
+
+**Assignment (Coming)**
 
 ## IAA Module - Session 4 - Spark Data Processing & Machine Learning
-[**Slides**]()
+**Slides**
 * Apache Spark Overview
 * Building and deploying Spark machine learning models
 * Considerations for ML in distributed environments
 * Spark Best Practices and Tuning
-[**Assignment**]()
+
+**Assignment (Coming)**
 
 ## IAA Module - Session 5 - Serverless Technology
-[**Slides**]()
+**Slides**
 * Intro to Google Cloud Platform
 * Overview of Serverless
 * Google Cloud Functions
@@ -50,7 +53,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Walk-through of Tools and Services
 
 ## IAA Module - Session 6 - Cloud Overview, Features and Demos / Special Topics
-[**Slides**]()
+**Slides**
 This session will be used as an overflow from previous sessions. If extra time is needed 
 or a deeper dive is required for specific content, then this session will be used for that. 
 * Machine Learning APIs
