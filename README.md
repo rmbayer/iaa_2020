@@ -2,7 +2,6 @@
 Distributed Data Processing Module - Dan Zaratsian, March 2020
 
 -----------------
-
 ## IAA Module - Session 1 - Distributed Services and Platform Overview
 [**Slides**](https://docs.google.com/presentation/d/1CC03MXct8pW9DblZ4i7sICcYlbXg81xgyB1DLtDh_ig/edit?usp=sharing)
 * Introduction and Module Agenda
@@ -10,6 +9,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Walk-through of Tools and Services for Big Data
 * Distributed Architectures and Use Cases
 
+-----------------
 ## IAA Module - Session 2 - SQL and NoSQL Services
 **Slides**
 * Apache Hadoop 101
@@ -25,6 +25,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 
 **Assignment (Coming)**
 
+-----------------
 ## IAA Module - Session 3 - Realtime, Streaming Systems
 **Slides**
 * Apache Kafka
@@ -34,6 +35,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 
 **Assignment (Coming)**
 
+-----------------
 ## IAA Module - Session 4 - Spark Data Processing & Machine Learning
 **Slides**
 * Apache Spark Overview
@@ -43,6 +45,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 
 **Assignment (Coming)**
 
+-----------------
 ## IAA Module - Session 5 - Serverless Technology
 **Slides**
 * Intro to Google Cloud Platform
@@ -52,6 +55,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Industry trends & Applications
 * Walk-through of Tools and Services
 
+-----------------
 ## IAA Module - Session 6 - Cloud Overview, Features and Demos / Special Topics
 **Slides**
 This session will be used as an overflow from previous sessions. If extra time is needed 
