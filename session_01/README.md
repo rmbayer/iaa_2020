@@ -2,16 +2,6 @@
 
 [Google Slides](https://docs.google.com/presentation/d/1CC03MXct8pW9DblZ4i7sICcYlbXg81xgyB1DLtDh_ig/edit?usp=sharing)
 
-## Demo: Hortonworks Data Platform
-
-For this demo, I am using [Cloudbreak](https://docs.hortonworks.com/HDPDocuments/Cloudbreak/Cloudbreak-2.7.2/index.html) to provision and deploy [Hortonworks HDP](https://docs.hortonworks.com) (Apache tech stack) across a set of [Google Cloud](https://cloud.google.com/) servers.
-
-For single-machine, quick prototyping, you could also use the [Hortonworks Sandbox](https://hortonworks.com/products/sandbox/), which is available as VMWare, VirtualBox, or a Docker container.
-
-Login to Cloudbreak (based on external IP of Cloudbreak VM instance):
-user_email: ```admin@cloudbreak.com```
-password: ```cloudbreak123```
-
 ## Demo: Google Cloud Dataproc
 
 The second demo will demonstrate how to quickly deploy a Hadoop cluster using Google Cloud (specifically Google Dataproc). The cluster should spin up in ~2 minutes, and includes serives such as HDFS, Hive, Spark, and others.
@@ -54,3 +44,17 @@ sim.write.mode("overwrite").format('orc').saveAsTable('sim_table_orc')
 show tables;
 describe formatted sim_table;
 ```
+
+-----------------
+
+## References
+* [Apache Spark Docs](https://spark.apache.org/docs/latest/)
+* [Google Cloud BigQuery](https://cloud.google.com/bigquery/what-is-bigquery)
+* [Google Cloud PubSub](https://cloud.google.com/pubsub/docs/concepts)
+* [Google Cloud Firestore](https://cloud.google.com/firestore/docs)
+* [Apache Kafka Docs](https://kafka.apache.org/20/documentation.html)
+* [Apache NiFi Docs](https://nifi.apache.org/docs.html)
+* [Apache Hive Docs](https://cwiki.apache.org/confluence/display/Hive/GettingStarted)
+* [Apache HBase Docs](https://hbase.apache.org/book.html)
+* [Apache Phoenix Docs](https://phoenix.apache.org/)
+* [Docker Docs](https://docs.docker.com/)
