@@ -1,6 +1,6 @@
 ## Assignment #1 - SQL and NoSQL Distrubuted Databases
 
-Please submit the code and answers to me in a Google Docs, email, or alternative method. I'd prefer for you to answer these questions using [Google BigQuery](https://console.cloud.google.com/bigquery). If that doesn't work, then you can use SparkSQL within [Google Colab Notebooks](https://colab.sandbox.google.com). If for some reason you prefer another method, you may use a different approach but please specify as part of your respone. 
+Please submit the code and answers to me in a Google Doc, email, or an alternative method is also ok. I'd prefer for you to answer these questions using [Google BigQuery](https://console.cloud.google.com/bigquery). If that doesn't work, then you can use SparkSQL within [Google Colab Notebooks](https://colab.sandbox.google.com). If for some reason you prefer another method, you may use a different approach but please specify as part of your respone. 
 
 Use the Austin Bikesharing data to answer the following questions. There are two ways to access the data:
 
