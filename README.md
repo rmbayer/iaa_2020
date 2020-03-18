@@ -13,7 +13,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 
 -----------------
 ## IAA Module - Session 2 - SQL and NoSQL Services
-**Slides**
+[Slides](https://docs.google.com/presentation/d/1zB7K2ud91WOKuCENic4WNLz6lSqJ0yUbijYQJ3HbFU0/edit#slide=id.g714c40836b_0_353)
 * Apache Hadoop 101
 * Intro to Apache Hive
 * Apache Hive Syntax and Schema Design
