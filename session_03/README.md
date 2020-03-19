@@ -1,31 +1,28 @@
-## Apache Spark - Data Processing & Machine Learning
-1. Clone (or Download) Repo
-```
-git clone https://github.com/zaratsian/IAA_Sessions.git
-cd IAA_Sessions/docker/
-```
+# [Institute for Advanced Analytics](https://analytics.ncsu.edu/)
+Distributed Data Processing Module - Dan Zaratsian, March 2020
 
-2. Build Container
-<br>Mac/Linux:  ```./spark_build.sh```
-<br>Windows:    Double-click on ```spark_build.bat```
+-----------------
+## IAA Module - Session 3 - Realtime, Streaming Systems
+**Slides**
+* Apache Kafka
+* Google PubSub
+* Spark Streaming
+* Apache Beam (Google Dataflow)
+* Apache NiFi
 
-3. Run Container
-<br>```./spark_run.sh```
+**Assignment (Coming)**
 
-4. Open up Zeppelin Notebook (use the UI to submit code)
-```
-http://localhost:18080
-```
-5. Work through the following Labs:
-<br>(1) Getting Started - Python
-<br>(2) Flight Predictor - Python 
-<br>(3) Movie Text Analytics - Python
 
-Optional: Connect to the Docker container (submit code via cli)
-```
-docker exec -it spark bash
-```
-Within the Container - Connect to PySpark
-```
-/spark/bin/pyspark --deploy-mode client --master local[*] --name spark_lab
-```
+-----------------
+
+## References
+* [Apache Spark Docs](https://spark.apache.org/docs/latest/)
+* [Google Cloud BigQuery](https://cloud.google.com/bigquery/what-is-bigquery)
+* [Google Cloud PubSub](https://cloud.google.com/pubsub/docs/concepts)
+* [Google Cloud Firestore](https://cloud.google.com/firestore/docs)
+* [Apache Kafka Docs](https://kafka.apache.org/20/documentation.html)
+* [Apache NiFi Docs](https://nifi.apache.org/docs.html)
+* [Apache Hive Docs](https://cwiki.apache.org/confluence/display/Hive/GettingStarted)
+* [Apache HBase Docs](https://hbase.apache.org/book.html)
+* [Apache Phoenix Docs](https://phoenix.apache.org/)
+* [Docker Docs](https://docs.docker.com/)
