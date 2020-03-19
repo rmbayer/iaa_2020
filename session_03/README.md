@@ -3,7 +3,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 
 -----------------
 ## IAA Module - Session 3 - Realtime, Streaming Systems
-**Slides**
+[**Slides**](https://docs.google.com/presentation/d/1yyc1PyXpt-suETXmQJr2FF19lhANVRAQMdo5pujVSw0/edit#slide=id.g71681dc956_0_348)
 * Apache Kafka
 * Google PubSub
 * Spark Streaming
