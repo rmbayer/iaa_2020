@@ -14,16 +14,16 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 -----------------
 ## IAA Module - Session 2 - SQL and NoSQL Services
 [Slides](https://docs.google.com/presentation/d/1zB7K2ud91WOKuCENic4WNLz6lSqJ0yUbijYQJ3HbFU0/edit#slide=id.g714c40836b_0_353)
-* Apache Hadoop 101
+* Hadoop 101
 * Intro to Apache Hive
 * Apache Hive Syntax and Schema Design
-* Intro to Apache HBase and Apache Phoenix
+* Intro to Apache HBase and Apache Phoenix (NoSQL)
 * Apache HBase Schema Design & Best Practices
 * Apache Phoenix Syntax
 * Intro to Apache SparkSQL
-* Apache SparkSQL Syntax and Best Practices
-* Google Cloud BigQuery (Managed SQL)
-* Google Cloud Firestore (Managed NoSQL)
+* Apache SparkSQL 
+* BigQuery (Serverless SQL)
+* Google Cloud Firestore (NoSQL)
 
 **[Assignment - Due on Friday, March 27, 2020](https://github.com/zaratsian/iaa_2020/blob/master/session_02/Assignment.md)**
 
