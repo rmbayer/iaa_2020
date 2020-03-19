@@ -8,7 +8,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Distributed Computing
 * Walk-through of Tools and Services for Big Data
 * Distributed Architectures and Use Cases
-* [Colab Notebooks](https://colab.sandbox.google.com/)
+* [Google Colab Notebook Environment](https://colab.sandbox.google.com/)
 * [Google BigQuery Sandbox](https://console.cloud.google.com/bigquery)
 
 -----------------
