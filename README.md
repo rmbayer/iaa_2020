@@ -25,7 +25,7 @@ Distributed Data Processing Module - Dan Zaratsian, March 2020
 * Google Cloud BigQuery (Managed SQL)
 * Google Cloud Firestore (Managed NoSQL)
 
-**Assignment (Coming)**
+**[Assignment - Due on Friday, March 27, 2020](https://github.com/zaratsian/iaa_2020/blob/master/session_02/Assignment.md)**
 
 -----------------
 ## IAA Module - Session 3 - Realtime, Streaming Systems
