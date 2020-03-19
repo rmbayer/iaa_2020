@@ -1,76 +1,29 @@
-## Apache Hive 
+# [Institute for Advanced Analytics](https://analytics.ncsu.edu/)
+Distributed Data Processing Module - Dan Zaratsian, Jan 2019
 
-1. Build Container
-<br>```cd ./IAA_Sessions/docker```
-<br>Mac/Linux:  ```./hive_build.sh```
-<br>Windows:    Double-click on ```hive_build.bat```
+-----------------
 
-2. Run Container
-<br>```./hive_run.sh```
+## IAA Module - Session 2 - SQL and NoSQL Services
+* Hadoop 101
+* Intro to Apache Hive
+* Apache Hive Syntax and Schema Design
+* Intro to Apache HBase and Apache Phoenix (NoSQL)
+* Apache HBase Schema Design & Best Practices
+* Apache Phoenix Syntax
+* Intro to Apache SparkSQL
+* Apache SparkSQL 
+* BigQuery (Serverless SQL)
+* Google Cloud Firestore (NoSQL)
 
-3. Connect to Container
-<br>```docker exec -it hadoop-master bash```
+-----------------
 
-4. Within the Container - Load into HDFS
-<br>```./hive_example_1_load_data.sh```
-
-5. Within the Container - Connect to Hive via JDBC
-<br>```./connect_to_hive.sh```
-
-6. Execute Hive SQL, found here:
-<br>https://github.com/zaratsian/IAA_Sessions/blob/master/docker/containers/hive/assets/hive_example_2_query.sql
-
-More scripts and examples found here:
-<br>https://github.com/zaratsian/Apache_Hive
-<br>https://github.com/zaratsian/HDP_Tuning_Unofficial
-
-## Apache Phoenix (HBase)
-
-1. Build Container
-<br>```cd ./IAA_Sessions/docker```
-<br>Mac/Linux:  ```./phoenix_build.sh```
-<br>Windows:    Double-click on ```phoenix_build.bat```
-
-2. Run Container
-<br>```./phoenix_run.sh```
-
-3. Connect to Container
-<br>```docker exec -it phoenix bash```
-
-4. Start Services (Apache HBase and PHoenix Query Server)
-<br>```./start_services.sh```
-
-5. Within the Container - Connect to Phoenix
-<br>```./connect_to_phoenix.sh```
-
-6. Within the Container, run Phoenix commands to create empty tables. Syntax shown here:
-<br>https://github.com/zaratsian/IAA_Sessions/blob/master/docker/containers/phoenix/assets/phoenix_1_create_tables.sql.sql
-
-7. Within the Container, exit the phoenix shell and load CSV into the tables (from the bash shell):
-<br>```./phoenix_2_load_csvs.sh```
-
-8. Within the Container - Connect to Phoenix (again)
-<br>```./connect_to_phoenix.sh```
-
-9. Within Container - Execute Phoenix Queries. Syntax shown here:
-<br>https://github.com/zaratsian/IAA_Sessions/blob/master/docker/containers/phoenix/assets/phoenix_3_queries.sql
-
-## Apache Spark
-
-1. Build Container
-<br>```cd ./IAA_Sessions/docker```
-<br>Mac/Linux:  ```./spark_build.sh```
-<br>Windows:    Double-click on ```spark_build.bat```
-
-2. Run Container
-<br>```./spark_run.sh```
-
-3. Connect to Container
-<br>```docker exec -it spark bash```
-
-4. Within the Container - Connect to PySpark
-<br>```/spark/bin/pyspark --deploy-mode client --master local[*] --name sparksql```
-
-5. Within the Container - Execute SparkSQL Commands. Syntax shown here:
-<br>https://github.com/zaratsian/IAA_Sessions/blob/master/session_02/spark_sql_example.py
-
+## References
+* [Apache Spark Docs](https://spark.apache.org/docs/latest/)
+* [Apache Kafka Docs](https://kafka.apache.org/20/documentation.html)
+* [Apache NiFi Docs](https://nifi.apache.org/docs.html)
+* [Apache Hive Docs](https://cwiki.apache.org/confluence/display/Hive/GettingStarted)
+* [Apache HBase Docs](https://hbase.apache.org/book.html)
+* [Apache Phoenix Docs](https://phoenix.apache.org/)
+* [Hortonworks Docs](https://docs.hortonworks.com/)
+* [Hortonworks Cloudbreak for Google Cloud](https://docs.hortonworks.com/HDPDocuments/Cloudbreak/Cloudbreak-2.7.2/content/gcp-quick/index.html)
+* [Docker Docs](https://docs.docker.com/)
