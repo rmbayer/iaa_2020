@@ -44,18 +44,18 @@ def pubsub_publish( pubsub_publisher, project_id, pubsub_topic, message ):
         print('[ ERROR ] {}'.format(e))
 
 
-'''
-Example:
 
+
+# Example Syntax:
+
+import datetime
+datetimestamp     = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
 project_id        = 'zbigdatademos'
 pubsub_publisher  = pubsub_v1.PublisherClient()
 pubsub_topic      = 'topicz1'
-message           = {'name': 'Dan Z', 'email':'d.zaratsian@gmail.com'}
-
+message           = {'name': 'Dan Z', 'email':'d.zaratsian@gmail.com', 'datetimestamp':datetimestamp}
 pubsub_publish( pubsub_publisher, project_id, pubsub_topic, message )
 
-
-'''
 
 
 #ZEND
